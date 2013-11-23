@@ -1,4 +1,4 @@
-atndcheckin
+atnd-receipt
 ===========
 
 #ATNDページの出席チェック用ブックマークレットです。
