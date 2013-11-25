@@ -1,5 +1,5 @@
 $(function(){
-  $("body").html($("#events-members").html(););
+  $("body").html($("#events-members").html());
   $(".a-b li em").each(function(){
     $(this).remove();
   });
